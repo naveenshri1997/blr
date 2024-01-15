@@ -11,7 +11,7 @@ const RelatedBlog = () => {
                 </div>                
                 <div className='blog_detail'>
                     <div className='bdp1'>
-                        <h2 style={{'font-size':'16px'}} className='blog_title text-start'>Back-End & Web Development Trends For 2024</h2>
+                        <h2 style={{'font-size':'15px'}} className='blog_title text-start'>Back-End & Web Development Trends For 2024</h2>
                      </div>                   
                 </div>
             </div>
@@ -22,7 +22,7 @@ const RelatedBlog = () => {
                 </div>                
                 <div className='blog_detail'>
                     <div className='bdp1'>
-                        <h2 style={{'font-size':'16px'}} className='blog_title text-start'>Back-End & Web Development Trends For 2024</h2>
+                        <h2 style={{'font-size':'15px'}} className='blog_title text-start'>Back-End & Web Development Trends For 2024</h2>
                      </div>                   
                 </div>
             </div>
