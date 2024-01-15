@@ -368,6 +368,7 @@ a{
   width: 78%;
   height: 79px;
   float: right;
+  margin-left: 10px;
 }
 
 blog_container .author .author_title {
