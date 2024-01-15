@@ -26,10 +26,10 @@ a{
   border-right: solid 1px #F2F2F2;
 }
 .allsidepadd{
-  padding:30px 10px;
+  padding:30px 18px !important;
 }
 .allsidepadd2{
-  padding:30px 10px;
+  padding:30px 18px !important;
 }
 
 .navbar {
