@@ -1,6 +1,6 @@
 import React from 'react'
 import bai from '../bai.jpg'
-import blogimgcom from '../blogimgcom.png'
+import blogimgcom from '../blog1.png'
 import { Link } from 'react-router-dom'
 const BlogTitleContainer = () => {
     return (
@@ -25,10 +25,10 @@ const BlogTitleContainer = () => {
                 </div>
                 <div className='blog_tag'>
                     <div className="bt">
-                        <h5 className='me-3'> <span class="rounded-pill cus_bg2 fw-normal badge text-dark px-4">Primary</span> </h5>
-                        <h5 className='me-3'> <span class="rounded-pill cus_bg2 fw-normal badge text-dark px-4">Secondary</span> </h5>
+                        <h5 className='me-2'> <span class="rounded-pill cus_bg2 fw-normal badge text-dark">Primary</span> </h5>
+                        <h5 className='me-2'> <span class="rounded-pill cus_bg2 fw-normal badge text-dark">Secondary</span> </h5>
                     </div>
-                    <div className='bttime'><p className='text-secondary my-1 fs-6'>9 min read</p></div>
+                    <div className='bttime'><p className='text-secondary'>9 min read</p></div>
                 </div>
             </div>
         </Link>
