@@ -15,13 +15,13 @@ export const SingleBlog = () => {
             <div className='blog_detail'>
                     <div className='bdp1'>
                         <h2 className='blog_title text-start fs-1'>Back-End & Web Development Trends For 2024</h2>
-                        <h3 className='blog_para text-start fs-5 fw-medium'>By Mary Moore, copywriter at Shakuro The ever-shifting
+                        <h3 className='blog_para text-start hev'>By Mary Moore, copywriter at Shakuro The ever-shifting
                             landscape of digital innovation</h3>
                     </div>                
                 </div>
 
                 <div className='author'>
-                    <div style={{'width':'40px'}} className="author_img"><img src={bai} alt="bai" className='img-fluid' /></div>
+                    <div  className="author_img"><img src={bai} alt="bai" className='img-fluid' /></div>
                     <div className="author_title hev">fatfish in JavaScript in Plain English</div>
                     <div className="author_date hev">Aug 12 2023</div>
                 </div>                               
