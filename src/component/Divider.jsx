@@ -7,7 +7,7 @@ const Divider = () => {
     return (
         <>
             <section>
-                <div className="container">
+                <div className="container-lg">
                     <div className="row">
                         <div className="col-lg-8 border_right allsidepadd">
                             <ScrollCategory />
