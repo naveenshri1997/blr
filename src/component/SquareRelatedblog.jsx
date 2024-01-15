@@ -8,7 +8,7 @@ const SquareRelatedblog = () => {
     <Link to={`/blog/id`}>
             <div className='square_blog_container'>
                 <div className="img_box">
-                    <img src={blogimgcom} className='img-fluid' width="300px" alt="" />
+                    <img src={blogimgcom} className='img-fluid' width="100%" alt="" />
                 </div>
                 <div className='author'>
                     <div className="author_img"><img src={bai} alt="bai" className='img-fluid' /></div>
