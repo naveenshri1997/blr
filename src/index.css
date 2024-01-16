@@ -50,7 +50,26 @@ a{
     top: 0px;
     background: transparent;
 }
-
+.scroll_category .scrollabsbuttonbox{
+  position: sticky;
+  top: 0px;
+}
+.scroll_category .scrollabsbutton{
+  position: absolute;
+  right: -5px;
+  top: 7px;
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 1px #F2F2F2;
+}
+.scroll_category .scrollabsbutton i{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50% ,-50%);
+}
 .scroll_category .nav.nav-pills::-webkit-scrollbar {
   width: 40px;
 } 
