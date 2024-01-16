@@ -54,13 +54,13 @@ a{
   position: sticky;
   top: 0px;
 }
-.scroll_category .scrollabsbutton{
+.scroll_category .scrollabsbutton {
   position: absolute;
-  right: -5px;
-  top: 7px;
+  right: 0px;
+  top: 4px;
   background-color: white;
-  width: 25px;
-  height: 25px;
+  width: 28px;
+  height: 28px;
   border-radius: 50%;
   box-shadow: 1px 1px 1px #F2F2F2;
 }
