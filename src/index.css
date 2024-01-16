@@ -59,10 +59,9 @@ a{
   right: 0px;
   top: 4px;
   background-color: white;
-  width: 28px;
-  height: 28px;
-  border-radius: 50%;
-  box-shadow: 1px 1px 1px #F2F2F2;
+  width: 22px;
+  height: 35px;
+  opacity: 0.9;
 }
 .scroll_category .scrollabsbutton i{
   position: absolute;
