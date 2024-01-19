@@ -13,14 +13,15 @@ const BlogTitleContainer = () => {
                     <div className="author_date hev">Aug 12 2023</div>
                 </div>
                 <div className='blog_detail'>
-                    <div className='bdp1'>
+                   
+                    <div className="bdp2">
+                        <img src={blogimgcom} className='img-fluid' width="300px" alt="" />
+                    </div>
+                     <div className='bdp1'>
                         <h2 className='blog_title text-start'>Back-End & Web Development Trends For 2024</h2>
                         <h3 className='blog_para text-start'>By Mary Moore, copywriter at Shakuro The ever-shifting
                             landscape of digital innovation can feel like a relentless race,
                             a whirlwind of challenges and opportunities. Your pains as a developer are real — the</h3>
-                    </div>
-                    <div className="bdp2">
-                        <img src={blogimgcom} className='img-fluid' width="300px" alt="" />
                     </div>
                 </div>
                 <div className='blog_tag'>
