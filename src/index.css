@@ -128,13 +128,15 @@ a{
 }
 
 .blog_container .blog_detail .bdp1{
-  margin-right: 60px;
+  margin-right: 0px;
 }
 
 .blog_container .blog_detail .bdp2{
   display: inline-flex;
   width: 300px;
   height: 100px;
+  margin: 6px 20px 0px 0px;
+
 }
 .blog_container .blog_detail .bdp2 img{
   width: 100%;
@@ -383,7 +385,7 @@ a{
   display: none;
 }
 .blog_container .blog_detail .bdp1 {
-  margin-right: 25px;
+  margin-right: 15px;
 }
 .blog_container .blog_detail .bdp1 .blog_title {
   font-weight: 700;
@@ -394,15 +396,16 @@ a{
   display: inline-flex;
   width: 150px;
   height: 65px;
+  margin: 0px 0px 0px 0px;
+
 }
 
 .blog_container .blog_detail .bdp2 img {
   width: 78%;
   height: 60px;
   float: right;
-  margin-left: 23px;
+  margin-left: 0px;
 }
-
 
 .blog_container .blog_tag .bt span{
   padding: 5px 10px;
